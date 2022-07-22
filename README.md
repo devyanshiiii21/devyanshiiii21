@@ -1,9 +1,6 @@
 <h1 align="center">Namaste, I'm Devyanshi Srivastava</h1>
 <h3 align="center">A developer in progress from India</h3>
 
-
-<p align="left"> <a href="https://twitter.com/devyanshi_21" target="blank"><img src="https://img.shields.io/twitter/follow/devyanshi_21?logo=twitter&style=for-the-badge" alt="devyanshi_21" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 - ⚡ Fun fact **The less I study for university exams, the more I score.💪**
 
