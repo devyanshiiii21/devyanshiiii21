@@ -1,8 +1,8 @@
 <h1 align="center">Namaste, I'm Devyanshi Srivastava</h1>
 <h3 align="center">A developer in progress from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
-- ⚡ Fun fact **The less I study for university exams, the more I score.💪**
+- 🌱 I’m currently learning **DevOps**
+- 📫 How to reach me **devyanshi2106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
