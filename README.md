@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **DevOps**
 - 📫 How to reach me **devyanshi2106@gmail.com**
 
-## Connect with me: <p align="left">
-<a href="https://twitter.com/devyanshi_21" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="devyanshi_21" height="35" width="35" /></a> 
+<h3 align="left"> Connect with me:</h3>
+<p align="left"><a href="https://twitter.com/devyanshi_21" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="devyanshi_21" height="35" width="35" /></a> 
   <a href="https://www.linkedin.com/in/devyanshi-srivastava-19346a21a/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0010_linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
 
 
