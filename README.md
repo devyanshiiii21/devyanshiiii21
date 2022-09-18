@@ -1,5 +1,5 @@
 <h1 align="center">Namaste, I'm Devyanshi Srivastava</h1>
-<h3 align="center">A developer in progress from India</h3>
+<h3 align="center">A developer in progress from India <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> </h3>
 
 - 🌱 I’m currently learning **DevOps**
 - 📫 How to reach me **devyanshi2106@gmail.com**
