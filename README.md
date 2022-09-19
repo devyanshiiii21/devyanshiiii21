@@ -32,9 +32,9 @@
 
 
   
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=devyanshiiii21&show_icons=true&theme=github_dark"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=devyanshiiii21&show_icons=true&theme=nightowl"/>
   
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&theme=github-dark-blue"/>
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&theme=nightowl"/>
   
 </div> 
 
