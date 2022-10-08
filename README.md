@@ -26,6 +26,7 @@
 ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-blue)
 
 
 <div align="center">
