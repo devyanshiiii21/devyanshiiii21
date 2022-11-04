@@ -33,9 +33,9 @@
 
 
   
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=devyanshiiii21&show_icons=true&theme=nightowl"/>
+<img width="450px" src="https://github-readme-stats.vercel.app/api?username=devyanshiiii21&show_icons=true&theme=nightowl"/>
   
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&theme=nightowl"/>
+<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&theme=nightowl"/>
   
 </div> 
 
