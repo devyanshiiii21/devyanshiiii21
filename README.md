@@ -23,8 +23,8 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
+<!-- ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp; -->
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-PYTHON-blue)
 
