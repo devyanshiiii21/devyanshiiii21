@@ -29,16 +29,16 @@
 ![PYTHON](https://img.shields.io/badge/-PYTHON-blue)
 
 
-<div align="center">
+<!-- <div align="center"> -->
 
 
   
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=devyanshiiii21&show_icons=true&theme=nightowl"/>
+<!-- <img width="450px" src="https://github-readme-stats.vercel.app/api?username=devyanshiiii21&show_icons=true&theme=nightowl"/>
   
 <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&theme=nightowl"/>
   
 </div> 
 
-<img height="300px"  align="center" src="https://activity-graph.herokuapp.com/graph?username=devyanshiiii21&theme=react-dark&hide_border=true&bg_color=00000000"/>
+<img height="300px"  align="center" src="https://activity-graph.herokuapp.com/graph?username=devyanshiiii21&theme=react-dark&hide_border=true&bg_color=00000000"/> -->
 
 
