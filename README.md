@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+<!-- ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp; -->
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
