@@ -1,44 +1,28 @@
 <h1 align="center">Namaste, I'm Devyanshi Srivastava</h1>
-<h3 align="center">A developer in progress from India <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> </h3>
-
-- 🌱 I’m currently learning **Backend Development**
-- 📫 How to reach me **devyanshi2106@gmail.com**
-
-<h3 align="left"> Connect with me:</h3>
-<p align="left"><a href="https://twitter.com/devyanshi_21" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="devyanshi_21" height="35" width="35" /></a> 
-  <a href="https://www.linkedin.com/in/devyanshi-srivastava-19346a21a/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0010_linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+<h3 align="center">A backend developer in progress.<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> </h3>
 
 
-<!--a href="https://twitter.com/devyanshi_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devyanshi_21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devyanshi-srivastava-19346a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devyanshi-srivastava-19346a21a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19600648/devyanshi-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19600648/devyanshi-srivastava" height="30" width="40" /></a>
-<!--<a href="https://instagram.com/devyanshi.21__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devyanshi.21__" height="30" width="40" /></a> -->
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<!-- ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp; -->
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
-![C](https://img.shields.io/badge/C-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-<!-- ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp; -->
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![PYTHON](https://img.shields.io/badge/-PYTHON-blue)
+* 🌍  I'm based in India
+* ✉️  You can contact me at [devyanshi2106@gmail.com](mailto:devyanshi2106@gmail.com)
+* 🚀  I'm currently working on [World of Fiction](http://https://github.com/devyanshiiii21/World-of-Fiction)
+* 🧠  I'm learning Django and SQL
 
 
-<!-- <div align="center"> -->
+### Skills
 
 
-  
-<!-- <img width="450px" src="https://github-readme-stats.vercel.app/api?username=devyanshiiii21&show_icons=true&theme=nightowl"/>
-  
-<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&theme=nightowl"/>
-  
-</div> 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a></p>
 
-<img height="300px"  align="center" src="https://activity-graph.herokuapp.com/graph?username=devyanshiiii21&theme=react-dark&hide_border=true&bg_color=00000000"/> -->
+### Socials<p align="left"> <a href="https://discord.com/users/Devyanshi#3301" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://devyanshiiii21.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/devyanshi.21__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/devyanshiiii21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/devyanshi_21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/devyanshiiii21"><img src="https://github-readme-stats.vercel.app/api?username=devyanshiiii21&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devyanshiiii21's GitHub stats" /></a>
+
+<a href="http://www.github.com/devyanshiiii21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/devyanshiiii21"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=devyanshiiii21&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
