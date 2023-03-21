@@ -1,5 +1,5 @@
 <h1 align="center">Namaste, I'm Devyanshi Srivastava</h1>
-<h3 align="center">A backend developer in progress.<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> </h3>
+<h3 align="center">A backend developer in progress.</h3>
 
 
 * 🌍  I'm based in India
