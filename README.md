@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [devyanshi2106@gmail.com](mailto:devyanshi2106@gmail.com)
-* 🚀  I'm currently working on [World of Fiction](https://github.com/devyanshiiii21/World-of-Fiction)
+
 * 🧠  I'm learning Django and SQL
 
 
