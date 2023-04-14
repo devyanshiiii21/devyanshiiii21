@@ -5,7 +5,7 @@
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [devyanshi2106@gmail.com](mailto:devyanshi2106@gmail.com)
 
-* 🧠  I'm learning Django and SQL
+* 🧠  I'm learning Rest Framework
 
 
 ### Skills
