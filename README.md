@@ -4,7 +4,6 @@
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [devyanshi2106@gmail.com](mailto:devyanshi2106@gmail.com)
-
 * 🧠  I'm learning Rest Framework
 
 
@@ -23,7 +22,7 @@
 </p>
 
 <p align= "center">
-<a href="http://www.github.com/devyanshiiii21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/devyanshiiii21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devyanshiiii21&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  /></a>
 </p>
 
 <p align= "center">
