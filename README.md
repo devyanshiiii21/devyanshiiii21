@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [devyanshi2106@gmail.com](mailto:devyanshi2106@gmail.com)
-* 🧠  I'm learning Devops
+<!-- * 🧠  I'm learning Devops -->
 
 
 ### Skills
